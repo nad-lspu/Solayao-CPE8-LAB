@@ -7,5 +7,7 @@
     <orderEntry type="jdk" jdkName="Python 3.13 (Solayao-CPE8-LAB)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="LSPU-Ordering-System" />
+    <orderEntry type="module" module-name="Pontalba, Solayao - CPE8 Lab" />
+    <orderEntry type="module" module-name="Pontalba-Solayao-CPE8Lab" />
   </component>
 </module>

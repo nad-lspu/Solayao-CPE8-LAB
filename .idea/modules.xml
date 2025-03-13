@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../LSPU-Ordering-System/.idea/LSPU-Ordering-System.iml" filepath="$PROJECT_DIR$/../LSPU-Ordering-System/.idea/LSPU-Ordering-System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pontalba, Solayao - CPE8 Lab/.idea/Pontalba, Solayao - CPE8 Lab.iml" filepath="$PROJECT_DIR$/../Pontalba, Solayao - CPE8 Lab/.idea/Pontalba, Solayao - CPE8 Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pontalba-Solayao-CPE8Lab/.idea/Pontalba-Solayao-CPE8Lab.iml" filepath="$PROJECT_DIR$/../Pontalba-Solayao-CPE8Lab/.idea/Pontalba-Solayao-CPE8Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Solayao-CPE8-LAB.iml" filepath="$PROJECT_DIR$/.idea/Solayao-CPE8-LAB.iml" />
     </modules>
   </component>
